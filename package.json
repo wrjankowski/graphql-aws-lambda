@@ -1,0 +1,14 @@
+{
+  "name": "graphql-aws-lambda",
+  "version": "1.0.0",
+  "description": "POC of graphql app running inside a lambda",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^3.0.2",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.7.2"
+  }
+}
